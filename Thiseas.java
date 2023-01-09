@@ -90,6 +90,23 @@ public class Thiseas {
 
     }
 
+        static boolean isSafe(String[][] maze,int x,int y) throws FileNotFoundException{
+            if(x!=maze.length||y!=maze[0].length){
+                System.out.println("Error: The dimensions given on the first line are not the same with the size of the Maze!");
+                return false;
+            }
+            for (int i = 0; i < maze.length; i++) {
+                for (int j = 0; j < maze[0].length; j++) {
+                    if(maze[i][j].contains("E")){
+                        return true;
+                    }
+                    }
+                }
+                System.out.println("Error: Maze does not contain the starting point \"E\"!");
+                return false;
+            }
+    
+        
     
     public static void main(String[] args) {
         try {//reads file from console
