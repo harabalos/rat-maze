@@ -16,12 +16,16 @@ Algorithms Implemented
 
 How to Run the Project
 --------------------------
-Clone the repository to your local machine
-Import the project into your preferred Java IDE
-Run the Main class
-Input the maze as prompted
-Select the data structure and algorithm to use
-Watch the program navigate and escape the maze
+1. Clone the repository to your local machine
+1. Import the project into your preferred Java IDE
+1. Run the Main class
+1. Watch the program navigate and escape the maze
+
 Note
-The maze should be entered row by row and it should be square.
-Please feel free to use and modify the code as you see fit. If you have any questions or issues, please reach out to me through the repository's issue tracker.
+----------------------
+- E = input position
+- 0 = walls
+- 1 = road
+
+
+**HAVE FUN!**
