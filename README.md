@@ -1,8 +1,8 @@
 Rat Maze
 ---------------------
-Welcome to the Maze Escape repository! This project was developed as part of a third semester course at AUEB University, and it focuses on implementing and utilizing data structures such as stacks, queues, and circular queues.
+This project was developed as part of a third semester course at AUEB University, and it focuses on implementing and utilizing data structures such as stacks, queues, and circular queues.
 
-The goal of the project is to use these data structures and the backtracking algorithm to navigate and escape a maze. The maze is represented using a 2D grid, with walls and paths represented by different characters. The program takes in the maze as an input, and the user can then select which data structure and algorithm to use to escape the maze.
+The goal of the project is to use these data structures and the backtracking algorithm to navigate and escape a maze. The maze is represented using a 2D grid, with walls and paths represented by different characters(1,0,E).
 
 Data Structures Implemented
 -------------------------
