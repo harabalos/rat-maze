@@ -28,4 +28,8 @@ Note
 - 1 = road
 
 
+Licence
+---------------
+This project is licensed under the terms of the [MIT](LICENCE.txt) License.
+
 **HAVE FUN!**
